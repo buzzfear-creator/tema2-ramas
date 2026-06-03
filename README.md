@@ -1,7 +1,7 @@
 Para los ejercicios del tema 2 meto mas informacion main
 
 <div align="center">
-  <a href="[https://docs.langchain.com/oss/python/langchain/overview](https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-dark.svg)">
+  <a href="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-dark.svg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=".github/images/logo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset=".github/images/logo-light.svg">
